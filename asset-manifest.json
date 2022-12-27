@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WRCoin-Dapp/static/css/main.1c1fffec.css",
+    "main.js": "/WRCoin-Dapp/static/js/main.bee35088.js",
+    "static/js/496.8b906b0b.chunk.js": "/WRCoin-Dapp/static/js/496.8b906b0b.chunk.js",
+    "index.html": "/WRCoin-Dapp/index.html",
+    "main.1c1fffec.css.map": "/WRCoin-Dapp/static/css/main.1c1fffec.css.map",
+    "main.bee35088.js.map": "/WRCoin-Dapp/static/js/main.bee35088.js.map",
+    "496.8b906b0b.chunk.js.map": "/WRCoin-Dapp/static/js/496.8b906b0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c1fffec.css",
+    "static/js/main.bee35088.js"
+  ]
+}
